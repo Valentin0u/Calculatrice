@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3B4664;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+}
+
+.calculette {
+    width: 540px;
+}
+
+.result {
+    background-color:#181F32;
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    border-radius: 5px;
+    padding:20px 30px;
+    margin:0;
+}
+
+.panel {
+    background-color: #252D44;
+    margin-top:25px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: #EAE3DB;
+    font-size: 30px;
+    color: #3C4655;
+    margin:12px;
+    border-radius: 5px;
+    padding:10px;
+    width: 100px;
+    
+}
+
+.large {
+    background-color: #252D44;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
+
+.del {
+    
+    font-size: 30px;
+    color: white;
+    border-style: none;
+    margin:12px;
+    border-radius: 5px;
+    padding:10px;
+    width: 100px;
+    background-color: #647299;
+    
+}
+
+.reset {
+    background-color: #647299;
+    height: 40px;
+    width: 230px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: large;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-left: 5px;
+
+
+}
+
+.egal {
+    background-color: #d13f30;
+    height: 40px;
+    width: 230px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: large;
+    color: white;
+    border-radius: 5px;
+    margin-left: 15px;
+
+
+}
+
+.screen{
+
+    background-color: #181f32;
+    height: 40px;
+    width: 310px;
+    color: white;
+    font-size: x-large;
+    text-align: right;
+    vertical-align: middle;
+    padding: 10px; 
+    padding-left: 40%;
+    margin: auto;
+
+
+}
